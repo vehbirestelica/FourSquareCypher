@@ -11,18 +11,17 @@ To generate the ciphertext squares, one would first fill in the spaces in the ma
 
 As an example, here are the four-square matrices for the keywords "example" and "keyword." The plaintext matrices are in lowercase and the ciphertext matrices are in caps to make this example visually more simple:
 
-* a b c d e   E X A M P
-* f g h i j   L B C D F
-* k l m n o   G H I J K
-* p r s t u   N O R S T
-* v w x y z   U V W Y Z
- 
- 
-* K E Y W O   a b c d e
-* R D A B C   f g h i j
-* F G H I J   k l m n o
-* L M N P S   p r s t u
-* T U V X Z   v w x y z
+ a b c d e   E X A M P
+ f g '''''h''''' i j   L B C D F
+ k l m n o   G H I J K
+ p r s t u   N O R S T
+ v w x y z   U V W Y Z
+ &nbsp;
+ K E Y W O   a b c d e
+ R D A B C   f g h i j
+ F G H I J   k l m n o
+ L M N P S   p r s t u
+ T U V X Z   v w x y z
 
 Algorithm
 To encrypt a message, one would follow these steps:
